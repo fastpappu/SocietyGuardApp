@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755477214233",
+    "project_id": "societyguardapp",
+    "storage_bucket": "societyguardapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755477214233:android:190efeac37eea4fc88e688",
+        "android_client_info": {
+          "package_name": "abidahsoftware.co.in.societyguardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755477214233-0e33d2dvcstjovk2b0krtlo9hdpj0unj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSizefE2Dz7s5YmVMnr5BFiWDZgUDNw4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755477214233-0e33d2dvcstjovk2b0krtlo9hdpj0unj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
